@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Rihards-PC\source\repos\04.02 R.J\04.02 R.J\Source.cpp(67,37): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Rihards-PC\source\repos\04.02 R.J\04.02 R.J\Source.cpp(67,37): message : placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  04.02 R.J.vcxproj -> C:\Users\Rihards-PC\source\repos\04.02 R.J\Debug\04.02 R.J.exe
