@@ -37,7 +37,7 @@ public: Queue(int startLength)
         {
             array.erase(array.begin());
             value = array.size();
-            counter--;
+		
             if (array.size() == length-1)
                 length /= 2;
         }
