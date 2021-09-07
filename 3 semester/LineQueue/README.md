@@ -1,1 +1,1 @@
-![LineQueue](./LineQueue.png)
+![LineQueue](LineQueue.png)
