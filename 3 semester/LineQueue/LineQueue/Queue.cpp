@@ -34,15 +34,15 @@ public: Queue(int startLength)
     int RemoveValue()
     {
         int value = 0;
-        if (counter > 0)
+        if (array.size() > 0)
         {
             array.erase(array.begin());
             value = array.size();
-            counter--;
+
             if (counter == length-1)
                 length /= 2;
         }
-        if (counter == 0)
+        if (array.empty())
         {
             cout << "Queue is empty , there is nothing to remove !" << endl;
             value = INT_MIN;
