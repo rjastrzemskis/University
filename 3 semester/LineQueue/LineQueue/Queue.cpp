@@ -15,21 +15,20 @@ public: Queue(int startLength)
 {
     length = startLength;
 }
-
-	void AddValue(int value)
-	{
-        if (array.size() < length)
-        {
+    void AddValue(int value)
+    {
+	if (array.size() < length)
+       {
             array.push_back(value);
             counter++;
-        }
+       }
         if (array.size() == length)
         {
             array.push_back(value);
             length *= 2;
             counter++;
         }
-	}
+    }
 
     int RemoveValue()
     {
