@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+C:\Users\Rihards-PC\source\repos\LineQueue\LineQueue\Queue.cpp(21,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rihards-PC\source\repos\LineQueue\LineQueue\Queue.cpp(55,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Rihards-PC\source\repos\LineQueue\LineQueue\Queue.cpp(63,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LineQueue.vcxproj -> C:\Users\Rihards-PC\source\repos\LineQueue\Debug\LineQueue.exe
