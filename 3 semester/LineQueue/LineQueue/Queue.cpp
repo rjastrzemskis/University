@@ -9,7 +9,6 @@ private:
     int* array;
     int length;
 
-
 public: Queue(int startLength)
 {
     length = startLength;
