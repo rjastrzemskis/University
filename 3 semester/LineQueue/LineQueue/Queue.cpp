@@ -1,3 +1,5 @@
+///Queue Rihards Jastržemskis
+
 #include <iostream>
 #include <conio.h>
 
@@ -17,15 +19,7 @@ public: Queue(int startLength)
 
       void AddValue(int value)
       {
-          int arraySize = 0;
-          for (int i = 0; i < length; i++)
-          {
-              if (array[i] != NULL)
-                  arraySize++;
-              else i = length;
-          }
-
-          if (arraySize < length)
+          if (counter < length)
           {
               for (int i = 0; i < length; i++)
               {
@@ -35,12 +29,11 @@ public: Queue(int startLength)
                       i = length;
                   }
               }
-              counter++;
           }
           else
           {
               length = length * 2;
-              int* increasedArray = new int[length];;
+              int* increasedArray = new int[length];
               for (int i = 0; i < length; i++)
               {
                   if (i < length / 2)
@@ -60,38 +53,21 @@ public: Queue(int startLength)
                       i = length;
                   }
               }
-              counter++;
           }
+          counter++;
       }
 
       int RemoveValue()
       {
-          int value = 0, arraySize = 0;
-          for (int i = 0; i < length; i++)
-          {
-              if (array[i] != NULL)
-                  arraySize++;
-              else i = length;
-          }
-
-          if (arraySize > 0)
+          int value = 0;
+          if (array[0]!=NULL)
           {
               value = array[0];
               for (int i = 0; i < length; i++)
-                  if (i < arraySize - 1)
+              {
+                  if (array[i] != NULL)
                       array[i] = array[i + 1];
                   else array[i] = NULL;
-
-              if (arraySize == length && arraySize < length)
-              {
-                  length = length / 2;
-                  int* decreasedArray = new int[length];
-                  for (int i = 0; i < length; i++)
-                      decreasedArray[i] = array[i];
-
-                  delete[]array;
-                  array = decreasedArray;
-                  decreasedArray = NULL;
               }
           }
           else
@@ -104,15 +80,8 @@ public: Queue(int startLength)
 
       void ToString()
       {
-          int arraySize = 0;
-          for (int i = 0; i < length; i++)
-          {
-              if (array[i] != NULL)
-                  arraySize++;
-              else i = length;
-          }
-
-          for (int i = 0; i < arraySize; i++)
+          for (int i = 0; i < counter; i++)
+              if(array[i]!=NULL)
               cout << array[i] << ' ';
 
           cout << endl;
@@ -121,8 +90,8 @@ public: Queue(int startLength)
 
 void main()
 {
-    struct Queue queue = Queue(5);
-    int x = 0, userInput = 0;
+    struct Queue Queue(5);
+    int value = 0, userInput = 0;
 
     do
     {
@@ -136,14 +105,14 @@ void main()
         switch (userInput)
         {
         case 1:
-            cout << "Please enter value to add it to queue: ", cin >> x;
-            queue.AddValue(x);
+            cout << "Please enter value to add it to queue: ", cin >> value;
+            Queue.AddValue(value);
             break;
         case 2:
-            queue.RemoveValue();
+            Queue.RemoveValue();
             break;
         case 3:
-            queue.ToString();
+            Queue.ToString();
             break;
         case 0:
             cout << "Closing program..." << endl;
