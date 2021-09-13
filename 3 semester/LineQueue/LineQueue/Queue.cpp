@@ -14,45 +14,27 @@ private:
 public: Queue(int startLength)
 {
     length = startLength;
-    array = new int[length] {};
+    array = new int[length];
 }
 
       void AddValue(int value)
       {
           if (counter < length)
           {
-              for (int i = 0; i < length; i++)
-              {
-                  if (array[i] == NULL)
-                  {
-                      array[i] = value;
-                      i = length;
-                  }
-              }
+              array[counter] = value;
           }
           else
           {
               length = length * 2;
               int* increasedArray = new int[length];
-              for (int i = 0; i < length; i++)
-              {
-                  if (i < length / 2)
-                      increasedArray[i] = array[i];
-                  else
-                      increasedArray[i] = NULL;
-              }
+              for (int i = 0; i < length / 2; i++)
+                  increasedArray[i] = array[i];
+              
               delete[]array;
               array = increasedArray;
               increasedArray = NULL;
 
-              for (int i = 0; i < length; i++)
-              {
-                  if (array[i] == NULL)
-                  {
-                      array[i] = value;
-                      i = length;
-                  }
-              }
+          	array[counter] = value;
           }
           counter++;
       }
@@ -60,15 +42,13 @@ public: Queue(int startLength)
       int RemoveValue()
       {
           int value = 0;
-          if (array[0]!=NULL)
+          if (counter > 0)
           {
               value = array[0];
-              for (int i = 0; i < length; i++)
-              {
-                  if (array[i] != NULL)
-                      array[i] = array[i + 1];
-                  else array[i] = NULL;
-              }
+              for (int i = 0; i < counter; i++)
+                  array[i] = array[i + 1];
+
+              counter--;
           }
           else
           {
