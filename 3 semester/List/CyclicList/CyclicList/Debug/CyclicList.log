@@ -1,0 +1,3 @@
+﻿  CyclicList.cpp
+C:\Users\Rihards-PC\source\repos\CyclicList\CyclicList\CyclicList.cpp(70,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CyclicList.vcxproj -> C:\Users\Rihards-PC\source\repos\CyclicList\Debug\CyclicList.exe

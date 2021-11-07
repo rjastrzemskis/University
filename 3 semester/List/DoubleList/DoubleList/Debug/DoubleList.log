@@ -1,0 +1,3 @@
+﻿  DoubleList.cpp
+C:\Users\Rihards-PC\source\repos\DoubleList\DoubleList\DoubleList.cpp(86,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DoubleList.vcxproj -> C:\Users\Rihards-PC\source\repos\DoubleList\Debug\DoubleList.exe
