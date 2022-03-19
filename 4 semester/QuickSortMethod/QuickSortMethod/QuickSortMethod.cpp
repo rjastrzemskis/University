@@ -2,30 +2,7 @@
 
 using namespace std;
 
-void quick_sort(int numberArray[], int low, int high);
-int main()
-{
-    //QuickSort method
-    int numberArray[] = { -2, 22, 2, 0, 44 };
-    int arrayLength = sizeof(numberArray) / sizeof(*numberArray);
-
-    cout << endl << "Before QuickSort method: ";
-    for (int i = 0; i < arrayLength; i++)
-    {
-        cout << numberArray[i] << " ";
-    }
-
-    quick_sort(numberArray, 0, arrayLength - 1);
-
-    cout << endl << "After QuickSort method: ";
-    for (int i = 0; i < arrayLength; i++)
-    {
-        cout << numberArray[i] << " ";
-    }
-}
-
-
-void quick_sort(int numberArray[], int low, int high) {
+void QuickSort(int numberArray[], int low, int high) {
     int temp, i, j, p = 0;
 
     if (low < high) {
@@ -48,7 +25,28 @@ void quick_sort(int numberArray[], int low, int high) {
         temp = numberArray[p];
         numberArray[p] = numberArray[j];
         numberArray[j] = temp;
-        quick_sort(numberArray, low, j - 1);
-        quick_sort(numberArray, j + 1, high);
+        QuickSort(numberArray, low, j - 1);
+        QuickSort(numberArray, j + 1, high);
+    }
+}
+
+int main()
+{
+    //QuickSort method
+    int numberArray[] = { -2, 22, 2, 0, 44 };
+    int arrayLength = sizeof(numberArray) / sizeof(*numberArray);
+
+    cout << endl << "Before QuickSort method: ";
+    for (int i = 0; i < arrayLength; i++)
+    {
+        cout << numberArray[i] << " ";
+    }
+
+    quick_sort(numberArray, 0, arrayLength - 1);
+
+    cout << endl << "After QuickSort method: ";
+    for (int i = 0; i < arrayLength; i++)
+    {
+        cout << numberArray[i] << " ";
     }
 }
