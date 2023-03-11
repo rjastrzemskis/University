@@ -1,0 +1,14 @@
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\bin\Debug\netcoreapp3.1\GameCards.exe
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\bin\Debug\netcoreapp3.1\GameCards.deps.json
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\bin\Debug\netcoreapp3.1\GameCards.runtimeconfig.json
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\bin\Debug\netcoreapp3.1\GameCards.runtimeconfig.dev.json
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\bin\Debug\netcoreapp3.1\GameCards.dll
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\bin\Debug\netcoreapp3.1\GameCards.pdb
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.csproj.AssemblyReference.cache
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.AssemblyInfoInputs.cache
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.AssemblyInfo.cs
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.csproj.CoreCompileInputs.cache
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.dll
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.pdb
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\GameCards\obj\Debug\netcoreapp3.1\GameCards.genruntimeconfig.cache

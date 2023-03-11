@@ -1,0 +1,14 @@
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\bin\Debug\netcoreapp3.1\ManStudentIntern.exe
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\bin\Debug\netcoreapp3.1\ManStudentIntern.deps.json
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\bin\Debug\netcoreapp3.1\ManStudentIntern.runtimeconfig.json
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\bin\Debug\netcoreapp3.1\ManStudentIntern.runtimeconfig.dev.json
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\bin\Debug\netcoreapp3.1\ManStudentIntern.dll
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\bin\Debug\netcoreapp3.1\ManStudentIntern.pdb
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.csproj.AssemblyReference.cache
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.AssemblyInfoInputs.cache
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.AssemblyInfo.cs
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.csproj.CoreCompileInputs.cache
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.dll
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.pdb
+C:\Users\Rihards\source\repos\3MD(Rihards Jastržemskis)\ManStudentIntern\obj\Debug\netcoreapp3.1\ManStudentIntern.genruntimeconfig.cache
