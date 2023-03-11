@@ -1,0 +1,16 @@
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).csproj.AssemblyReference.cache
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).csproj.GenerateResource.cache
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).AssemblyInfoInputs.cache
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).AssemblyInfo.cs
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).csproj.CoreCompileInputs.cache
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\bin\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).exe
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\bin\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).deps.json
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\bin\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).runtimeconfig.json
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\bin\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).runtimeconfig.dev.json
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\bin\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).dll
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\bin\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).pdb
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).dll
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).pdb
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\4MD(Rihards Jastržemskis).genruntimeconfig.cache
+C:\Users\Rihards\source\repos\4MD(Rihards Jastržemskis)\4MD(Rihards Jastržemskis)\obj\Debug\netcoreapp3.1\_4MD_Rihards_Jastržemskis_.Form.resources
